@@ -23,7 +23,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ufafat.bet
 0.0.0.0 season.sanook.com
 0.0.0.0 ads.trafficjunky.net
-
+https://ygg999.co
 
 ################################################################
 # TTC-CERT Recommended Block List                              #
