@@ -23,6 +23,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 ufafat.bet
 0.0.0.0 season.sanook.com
 0.0.0.0 ads.trafficjunky.net
+0.0.0.0 cloud.h-ani.com
+0.0.0.0 hentaithai.com-nb
 https://ygg999.co
 
 ################################################################
