@@ -25,7 +25,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.trafficjunky.net
 0.0.0.0 cloud.h-ani.com
 0.0.0.0 hentaithai.com-nb
-https://ygg999.co
+0.0.0.0 ygg999.co
 
 ################################################################
 # TTC-CERT Recommended Block List                              #
