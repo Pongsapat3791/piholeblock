@@ -39,6 +39,26 @@ ff02::3 ip6-allhosts
 #
 # Domain
 
+bsc.news
+k9thh1.com
+fafa178thai1.com
+tecnodiva.com
+www.strongholdbrand.com
+www.theworldweekly.com
+s3t3d2y8.afcdn.net
+1.oredoujin.com
+2.oredoujin.com
+3.oredoujin.com
+4.oredoujin.com
+5.oredoujin.com
+6.oredoujin.com
+7.oredoujin.com
+8.oredoujin.com
+9.oredoujin.com
+vvv.xn--s3cx7a.com
+a.magsrv.com
+s3t3d2y8.afcdn.net
+s.magsrv.com
 img.pic.in.th
 img1.pic.in.th
 img2.pic.in.th
