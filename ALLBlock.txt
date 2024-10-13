@@ -24,7 +24,6 @@ ff02::3 ip6-allhosts
 127.0.0.1 ufafat.bet
 127.0.0.1 season.sanook.com
 127.0.0.1 ads.trafficjunky.net
-127.0.0.1 cloud.h-ani.com
 127.0.0.1 hentaithai.com-nb
 127.0.0.1 ygg999.co
 
@@ -98,7 +97,6 @@ ff02::3 ip6-allhosts
 127.0.0.1 www.xuqing365.com
 127.0.0.1 www.sergioaguayo.org
 127.0.0.1 cdn.popcash.net
-127.0.0.1 eroge.h-ani.com
 127.0.0.1 endowmentoverhangutmost.com
 127.0.0.1 cdn.bncloudfl.com
 127.0.0.1 stripchat.com
