@@ -155,6 +155,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 static.javhdhello.com
 0.0.0.0 javhdhello.com
 0.0.0.0 javhd.com
+0.0.0.0 cdn.jsdelivr.net
+0.0.0.0 etahub.com
+0.0.0.0 ev-h.phncdn.com
+0.0.0.0 ei.phncdn.com
 #pornhub
 
 0.0.0.0 ifa.pornhublive.com
