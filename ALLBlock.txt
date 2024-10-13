@@ -14,6 +14,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
 
+||trafficjunky.net
 127.0.0.1 sv1.picz.in.th
 127.0.0.1 ufanance.co
 127.0.0.1 juad888x.com
@@ -148,3 +149,55 @@ ff02::3 ip6-allhosts
 127.0.0.1 www.googleadservices.com
 127.0.0.1 hw-cdn2.adtng.com
 127.0.0.1 chaseherbalpasty.com
+
+
+#pornhub
+
+0.0.0.0 ifa.pornhublive.com
+0.0.0.0 ht.pornhub.com
+0.0.0.0 ams.upload.pornhub.com
+0.0.0.0 api.pornhub.com
+0.0.0.0 api-stage2.pornhub.com
+0.0.0.0 api-stage3.pornhub.com
+0.0.0.0 api-stage.pornhub.com
+0.0.0.0 bar.pornhub.com
+0.0.0.0 blog.pornhub.com
+0.0.0.0 cdn-d-img.pornhub.com
+0.0.0.0 cdn-d-limg.pornhub.com
+0.0.0.0 cdndoe.xyz
+0.0.0.0 cdn-d-ss2.pornhub.com
+0.0.0.0 cdn-d-ss.pornhub.com
+0.0.0.0 cdn-d-static.pornhub.com
+0.0.0.0 cdn-d-vid-embed.pornhub.com
+0.0.0.0 cdn-d-vid-mobile.pornhub.com
+0.0.0.0 cdn-d-vid-public.pornhub.com
+0.0.0.0 cz.pornhub.com
+0.0.0.0 de.pornhub.com
+0.0.0.0 es.pornhub.com
+0.0.0.0 feedback.pornhub.com
+0.0.0.0 fr.pornhub.com
+0.0.0.0 hdpornhub.co
+0.0.0.0 help.pornhub.com
+0.0.0.0 img.pornhub.com
+0.0.0.0 m.pornhub.com
+0.0.0.0 origin.pornhub.com
+0.0.0.0 pornhub.com.do
+0.0.0.0 pornhub.net
+0.0.0.0 pornhub.net.co
+0.0.0.0 pornhub.youjizz.icu
+0.0.0.0 pornhubb.top
+0.0.0.0 pornhubcasino.com
+0.0.0.0 pornhublive.com
+0.0.0.0 pornhubpremium.com
+0.0.0.0 pornhubs.video
+0.0.0.0 pornhubshemale.com
+0.0.0.0 pornhubuk.com
+0.0.0.0 pornhubx.b-cdn.net
+0.0.0.0 stage-adn.pornhub.com
+0.0.0.0 store.pornhub.com
+0.0.0.0 upload.pornhub.com
+0.0.0.0 www.hdpornhub.co
+0.0.0.0 www.pornhub.video
+0.0.0.0 www-stage2.pornhub.com
+0.0.0.0 www-stage3.pornhub.com
+0.0.0.0 www-stage.pornhub.com
