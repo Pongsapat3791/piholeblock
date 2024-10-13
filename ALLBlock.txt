@@ -14,18 +14,18 @@ ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
 
-0.0.0.0 sv1.picz.in.th
-0.0.0.0 ufanance.co
-0.0.0.0 juad888x.com
-0.0.0.0 lockdown168z.com
-0.0.0.0 ufac44.com
-0.0.0.0 u3y8v8u4.aucdn.net
-0.0.0.0 ufafat.bet
-0.0.0.0 season.sanook.com
-0.0.0.0 ads.trafficjunky.net
-0.0.0.0 cloud.h-ani.com
-0.0.0.0 hentaithai.com-nb
-0.0.0.0 ygg999.co
+127.0.0.1 sv1.picz.in.th
+127.0.0.1 ufanance.co
+127.0.0.1 juad888x.com
+127.0.0.1 lockdown168z.com
+127.0.0.1 ufac44.com
+127.0.0.1 u3y8v8u4.aucdn.net
+127.0.0.1 ufafat.bet
+127.0.0.1 season.sanook.com
+127.0.0.1 ads.trafficjunky.net
+127.0.0.1 cloud.h-ani.com
+127.0.0.1 hentaithai.com-nb
+127.0.0.1 ygg999.co
 
 ################################################################
 # TTC-CERT Recommended Block List                              #
@@ -39,110 +39,110 @@ ff02::3 ip6-allhosts
 #
 # Domain
 
-0.0.0.0 www.googleadservices.com
-0.0.0.0 ads.google.com
-0.0.0.0 adservice.google.com
-0.0.0.0 s0-2mdn-net.l.google.com
-0.0.0.0 googleadservices.com
-0.0.0.0 pagead2.googleadservices.com
-0.0.0.0 static.googleadsserving.cn
-0.0.0.0 googlesyndication.com
-0.0.0.0 ade.googlesyndication.com
-0.0.0.0 pagead.googlesyndication.com
-0.0.0.0 pagead2.googlesyndication.com
-0.0.0.0 tpc.googlesyndication.com
+127.0.0.1 www.googleadservices.com
+127.0.0.1 ads.google.com
+127.0.0.1 adservice.google.com
+127.0.0.1 s0-2mdn-net.l.google.com
+127.0.0.1 googleadservices.com
+127.0.0.1 pagead2.googleadservices.com
+127.0.0.1 static.googleadsserving.cn
+127.0.0.1 googlesyndication.com
+127.0.0.1 ade.googlesyndication.com
+127.0.0.1 pagead.googlesyndication.com
+127.0.0.1 pagead2.googlesyndication.com
+127.0.0.1 tpc.googlesyndication.com
 
-bsc.news
-k9thh1.com
-fafa178thai1.com
-tecnodiva.com
-www.strongholdbrand.com
-www.theworldweekly.com
-s3t3d2y8.afcdn.net
-1.oredoujin.com
-2.oredoujin.com
-3.oredoujin.com
-4.oredoujin.com
-5.oredoujin.com
-6.oredoujin.com
-7.oredoujin.com
-www.glisser.com
-8.oredoujin.com
-9.oredoujin.com
-vvv.xn--s3cx7a.com
-a.magsrv.com
-s3t3d2y8.afcdn.net
-s.magsrv.com
-img.pic.in.th
-img1.pic.in.th
-img2.pic.in.th
-img3.pic.in.th
-img4.pic.in.th
-img5.pic.in.th
-manga-lc.net
-myriadfavor.com
-ufa888club.net
-t.ly
-vip168saa
-www.ciuscenter.org
-www.nolicdc.org
-barthworks.com
-www.visitlittletokyo.com
-jandacafe.com
-pulseorlandoclub.com
-image.cdend.com
-lzxledu.com
-www.xuqing365.com
-www.sergioaguayo.org
-cdn.popcash.net
-eroge.h-ani.com
-endowmentoverhangutmost.com
-cdn.bncloudfl.com
-stripchat.com
-a.adtng.com
-www.stoneponylondon.net
-stoneponylondon.net
-www.betflik168.gg
-betflik168.gg
-pic.in.th
-www.bs3999.xyz
-bs3999.xyz
-sexybaccarat3.com
-cutt.ly
-hentaithai.com-banner
-1.god-doujin.com
-2.god-doujin.com
-3.god-doujin.com
-4.god-doujin.com
-5.god-doujin.com
-6.god-doujin.com
-7.god-doujin.com
-8.god-doujin.com
-9.god-doujin.com
-topfuelsaloon.com
-play.sa-lk.com
-sa-lk.com
-rebelmail.com
-glorycycles.com
-hswaynepets.org
-98mth.com
-toon4.com
-zzlsgyl.com
-baccaratlove.com
-ufabetthailand.vip
-fafa178th4.com
-www.fideg.org
-fideg.org
-winzz.online
-thisisnotajumpscare.com
-www.aw8thai4.com
-image.cdend.com
-network.nutaku.net
-network.nutaku.net.lds.rncdn7.com
-panama8888.live
-iqoption.com
-sanook.com
-www.sanook.com
-www.googleadservices.com
-hw-cdn2.adtng.com
-chaseherbalpasty.com
+127.0.0.1 bsc.news
+127.0.0.1 k9thh1.com
+127.0.0.1 fafa178thai1.com
+127.0.0.1 tecnodiva.com
+127.0.0.1 www.strongholdbrand.com
+127.0.0.1 www.theworldweekly.com
+127.0.0.1 s3t3d2y8.afcdn.net
+127.0.0.1 1.oredoujin.com
+127.0.0.1 2.oredoujin.com
+127.0.0.1 3.oredoujin.com
+127.0.0.1 4.oredoujin.com
+127.0.0.1 5.oredoujin.com
+127.0.0.1 6.oredoujin.com
+127.0.0.1 7.oredoujin.com
+127.0.0.1 www.glisser.com
+127.0.0.1 8.oredoujin.com
+127.0.0.1 9.oredoujin.com
+127.0.0.1 vvv.xn--s3cx7a.com
+127.0.0.1 a.magsrv.com
+127.0.0.1 s3t3d2y8.afcdn.net
+127.0.0.1 s.magsrv.com
+127.0.0.1 img.pic.in.th
+127.0.0.1 img1.pic.in.th
+127.0.0.1 img2.pic.in.th
+127.0.0.1 img3.pic.in.th
+127.0.0.1 img4.pic.in.th
+127.0.0.1 img5.pic.in.th
+127.0.0.1 manga-lc.net
+127.0.0.1 myriadfavor.com
+127.0.0.1 ufa888club.net
+127.0.0.1 t.ly
+127.0.0.1 vip168saa
+127.0.0.1 www.ciuscenter.org
+127.0.0.1 www.nolicdc.org
+127.0.0.1 barthworks.com
+127.0.0.1 www.visitlittletokyo.com
+127.0.0.1 jandacafe.com
+127.0.0.1 pulseorlandoclub.com
+127.0.0.1 image.cdend.com
+127.0.0.1 lzxledu.com
+127.0.0.1 www.xuqing365.com
+127.0.0.1 www.sergioaguayo.org
+127.0.0.1 cdn.popcash.net
+127.0.0.1 eroge.h-ani.com
+127.0.0.1 endowmentoverhangutmost.com
+127.0.0.1 cdn.bncloudfl.com
+127.0.0.1 stripchat.com
+127.0.0.1 a.adtng.com
+127.0.0.1 www.stoneponylondon.net
+127.0.0.1 stoneponylondon.net
+127.0.0.1 www.betflik168.gg
+127.0.0.1 betflik168.gg
+127.0.0.1 pic.in.th
+127.0.0.1 www.bs3999.xyz
+127.0.0.1 bs3999.xyz
+127.0.0.1 sexybaccarat3.com
+127.0.0.1 cutt.ly
+127.0.0.1 hentaithai.com-banner
+127.0.0.1 1.god-doujin.com
+127.0.0.1 2.god-doujin.com
+127.0.0.1 3.god-doujin.com
+127.0.0.1 4.god-doujin.com
+127.0.0.1 5.god-doujin.com
+127.0.0.1 6.god-doujin.com
+127.0.0.1 7.god-doujin.com
+127.0.0.1 8.god-doujin.com
+127.0.0.1 9.god-doujin.com
+127.0.0.1 topfuelsaloon.com
+127.0.0.1 play.sa-lk.com
+127.0.0.1 sa-lk.com
+127.0.0.1 rebelmail.com
+127.0.0.1 glorycycles.com
+127.0.0.1 hswaynepets.org
+127.0.0.1 98mth.com
+127.0.0.1 toon4.com
+127.0.0.1 zzlsgyl.com
+127.0.0.1 baccaratlove.com
+127.0.0.1 ufabetthailand.vip
+127.0.0.1 fafa178th4.com
+127.0.0.1 www.fideg.org
+127.0.0.1 fideg.org
+127.0.0.1 winzz.online
+127.0.0.1 thisisnotajumpscare.com
+127.0.0.1 www.aw8thai4.com
+127.0.0.1 image.cdend.com
+127.0.0.1 network.nutaku.net
+127.0.0.1 network.nutaku.net.lds.rncdn7.com
+127.0.0.1 panama8888.live
+127.0.0.1 iqoption.com
+127.0.0.1 sanook.com
+127.0.0.1 www.sanook.com
+127.0.0.1 www.googleadservices.com
+127.0.0.1 hw-cdn2.adtng.com
+127.0.0.1 chaseherbalpasty.com
