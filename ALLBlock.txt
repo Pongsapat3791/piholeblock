@@ -53,6 +53,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 tpc.googlesyndication.com
 127.0.0.1 imasdk.googleapis.com
 
+127.0.0.1 clip2thai.com
 127.0.0.1 bsc.news
 127.0.0.1 k9thh1.com
 127.0.0.1 fafa178thai1.com
