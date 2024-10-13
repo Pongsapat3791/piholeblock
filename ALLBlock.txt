@@ -140,17 +140,18 @@ ff02::3 ip6-allhosts
 127.0.0.1 thisisnotajumpscare.com
 127.0.0.1 www.aw8thai4.com
 127.0.0.1 image.cdend.com
-127.0.0.1 network.nutaku.net
-127.0.0.1 network.nutaku.net.lds.rncdn7.com
-127.0.0.1 panama8888.live
-127.0.0.1 iqoption.com
-127.0.0.1 sanook.com
-127.0.0.1 www.sanook.com
-127.0.0.1 www.googleadservices.com
-127.0.0.1 hw-cdn2.adtng.com
-127.0.0.1 chaseherbalpasty.com
-
-
+0.0.0.0 network.nutaku.net
+0.0.0.0 network.nutaku.net.lds.rncdn7.com
+0.0.0.0 panama8888.live
+0.0.0.0 iqoption.com
+0.0.0.0 sanook.com
+0.0.0.0 www.sanook.com
+0.0.0.0 www.googleadservices.com
+0.0.0.0 hw-cdn2.adtng.com
+0.0.0.0 chaseherbalpasty.com
+0.0.0.0 trafficjunky.com
+0.0.0.0 www.trafficjunky.com
+0.0.0.0 jdbaa.bet
 #pornhub
 
 0.0.0.0 ifa.pornhublive.com
