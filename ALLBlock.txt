@@ -150,6 +150,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 trafficjunky.com
 0.0.0.0 www.trafficjunky.com
 0.0.0.0 jdbaa.bet
+0.0.0.0 www.588ws.pro
+0.0.0.0 evtubescms.phncdn.com
 #pornhub
 
 0.0.0.0 ifa.pornhublive.com
