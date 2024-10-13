@@ -160,6 +160,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 zak168.com
 0.0.0.0 phncdn.com
 0.0.0.0 cv-h.phncdn.com
+0.0.0.0 bmedia-gcore.justservingfiles.net
+0.0.0.0 9king888.cc
+0.0.0.0 lukwin88y.com
+0.0.0.0 www.seducix.com
 
 #pornhub
 
