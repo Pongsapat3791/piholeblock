@@ -116,7 +116,6 @@ ff02::3 ip6-allhosts
 127.0.0.1 hentaithai.com-banner
 127.0.0.1 1.god-doujin.com
 127.0.0.1 2.god-doujin.com
-127.0.0.1 3.god-doujin.com
 127.0.0.1 4.god-doujin.com
 127.0.0.1 5.god-doujin.com
 127.0.0.1 6.god-doujin.com
