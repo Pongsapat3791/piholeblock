@@ -113,14 +113,6 @@ ff02::3 ip6-allhosts
 127.0.0.1 sexybaccarat3.com
 127.0.0.1 cutt.ly
 127.0.0.1 hentaithai.com-banner
-127.0.0.1 1.god-doujin.com
-127.0.0.1 2.god-doujin.com
-127.0.0.1 4.god-doujin.com
-127.0.0.1 5.god-doujin.com
-127.0.0.1 6.god-doujin.com
-127.0.0.1 7.god-doujin.com
-127.0.0.1 8.god-doujin.com
-127.0.0.1 9.god-doujin.com
 127.0.0.1 topfuelsaloon.com
 127.0.0.1 play.sa-lk.com
 127.0.0.1 sa-lk.com
@@ -143,8 +135,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 network.nutaku.net.lds.rncdn7.com
 0.0.0.0 panama8888.live
 0.0.0.0 iqoption.com
-0.0.0.0 sanook.com
-0.0.0.0 www.sanook.com
 0.0.0.0 www.googleadservices.com
 0.0.0.0 hw-cdn2.adtng.com
 0.0.0.0 chaseherbalpasty.com
