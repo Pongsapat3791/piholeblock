@@ -13,8 +13,27 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
-
+||images-delivery.com/weplay ขนาด 140x250.gif
+||images-delivery.com/10-6-2025-(banner-seo)720-200.gif
+||images-delivery.com/แทงบอล001.gif
+||images-delivery.com/xxbet2.3.gif
+||images-delivery.com/allbet24hr-bannergif-728x200.gif
+||images-delivery.com/02 Banner (X2) 728x200xx.gif
+||images-delivery.com/01 Banner (X2) 728x200xx.gif
+||images-delivery.com/New Banner (8) 1456x400-06.png
+||images-delivery.com/New Banner (8) 1456x400-02.png
+||images-delivery.com/pgslotpgsexy88.webp
+||images-delivery.com/000000d2-2c39--a0af-NEXOBET.gif
+||images-delivery.com/js-bn-gif.gif
+||images-delivery.com/020-728x180-G7.gif
+||god-doujin.com/wp-content/uploads/
+||mangastep.com/wp-content/uploads/
 ||trafficjunky.net
+127.0.0.1 www.colf.org
+127.0.0.1 utomik.com
+127.0.0.1 www.felineworlds.com
+127.0.0.1 laplumbingexperts.com
+127.0.0.1 designerspics.com
 127.0.0.1 sv1.picz.in.th
 127.0.0.1 ufanance.co
 127.0.0.1 juad888x.com
@@ -56,6 +75,11 @@ ff02::3 ip6-allhosts
 127.0.0.1 imasdk.googleapis.com
 
 # ads
+127.0.0.1 service.adsok.co
+127.0.0.1 ibit.ly
+127.0.0.1 pgk44.bio
+127.0.0.1 nexobet44.com
+127.0.0.1 cdn.adsok.co
 127.0.0.1 clip2thai.com
 127.0.0.1 bsc.news
 127.0.0.1 k9thh1.com
